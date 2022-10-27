@@ -8,4 +8,4 @@
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,js,git,github,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,js,git,github,html,css,bootstrap)](#)
